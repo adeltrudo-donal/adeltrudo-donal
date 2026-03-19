@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Adeltrudo Donal 👋
 
-<!--
-**adeltrudo-donal/adeltrudo-donal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a 6th-semester Informatics student at Institut Sains dan Teknologi Terpadu Surabaya (ISTTS) and a Freelance Software Developer. I specialize in building scalable web applications and cross-platform mobile apps. Currently, I am seeking an IT Internship opportunity to contribute to impactful tech solutions.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on: **Freelance E-Commerce App and Assistant to the Head of Student Affairs**
+* 🌱 I’m currently learning: **Kotlin, Unity, PostgreSQL, Flutter, Unified Modeling Language**
+* 👯 I’m looking to collaborate on: **Open Source IT Projects & Enterprise Software Development**
+* 📫 How to reach me: **adeltrudodonal@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, Dart, PHP, Kotlin
+* **Frontend:** Tailwind CSS, Bootstrap, HTML/CSS
+* **Backend:** Node.js, Express.js
+* **Mobile:** Flutter
+* **Database & Tools:** MySQL, GitHub, MongoDB, Postman
+
+### 🔗 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/adeltrudo-donal/)
